@@ -1,0 +1,5 @@
+.list-group a:hover
+{
+background-color: rgb(111, 111, 240);
+color: white;
+}
